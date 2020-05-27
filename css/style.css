@@ -1,1 +1,62 @@
-1
+*{ margin:0; padding:0;}
+body,p,h1,h2,h3,h4,h5,table,ul,li,form,input{ margin:0; padding:0; color:#000; font-family: "微软雅黑";}
+a{ font-size:12px; color:#000; text-decoration:none; border:none; padding:0; margin:0;}
+a:hover{ color:#6e1923;}
+img{ border:0; margin:0; padding:0;}
+ul,li{ list-style:none; border:0; margin:0; padding:0;}
+.clear{ clear:both;}
+body{background-color: aqua;}
+
+.main{ width:1200px; margin:0 auto;}
+
+.header{ width:100%; overflow:hidden; padding:16px 0;}
+.logo{ float:left; color:#f13a3a; font-size:30px; font-family:"方正粗黑宋简体";}
+
+.lx{ float:right;color:#999;}
+.lx a{ font-size:14px; padding:0 20px; color:#999; line-height:40px;}
+.lx a:hover{color:#f13a3a; }
+
+.nav{ width:100%; overflow:hidden; height:42px; background:#2b2b2b;}
+.nav a{ font-size:16px; color:#FFF; padding:14px 50px; line-height:42px;}
+
+.sy{ width:260px; height:30px; float:right; margin-right:20px; background:#FFF; margin-top:6px; border-radius:30px;}
+.sy input{ float:left; padding-left:20px; width:180px; border:none; outline:none; height:30px;  border-radius:30px;}
+.sy button{ width:60px; height:30px; text-align:center; padding-left:30px; outline:none; background:url(../images/go.png) no-repeat center; border:none;cursor:pointer;}
+.nav a:hover ,.nav a.on{ background:#f13a3a;}
+
+.banner{ width:100%; overflow:hidden; padding-top:4px;}
+.banner img{ width:100%;}
+
+h1{ font-size:26px; color:#444444;font-family:"方正粗黑宋简体"; font-weight:normal; padding:20px 0;}
+.sb{ width:100%; overflow:hidden;}
+.sb img{ margin:0 0 17px 17px;}
+
+.bh{ width:100%; overflow:hidden;}
+.bh li{ width:250px; padding:15px; background:#FFF; border:1px solid #eaeaea; margin-left:23px; float:left; margin-bottom:20px;}
+.bh li img{ width:100%;}
+.bh li h4{ font-size:16px; color:#333; font-weight:normal; line-height:32px;}
+.bh li h2{ font-size:14px; color:#666; font-weight:normal;}
+.bh li h3{ font-size:20px; color:#f13a3a; font-weight:normal; padding-top:6px;}
+.bh li span{ font-size:12px;}
+
+.foot{background:#2b2b2b; text-align:center; line-height:70px; color:#FFF; font-size:14px; width:100%; overflow:hidden; margin-top:30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
