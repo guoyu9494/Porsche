@@ -1,16 +1,10 @@
 body,p,h1,h2,h3,h4,h5,table,ul,li,form,input{ margin:0; padding:0; color:#000; font-family: "微软雅黑";}
 a{ font-size:12px; color:#000; text-decoration:none; border:none; padding:0; margin:0;}
-a:hover{ color:#6e1923;}
+a:hover{ color:#ec162f;}
 img{ border:0; margin:0; padding:0;}
 ul,li{ list-style:none; border:0; margin:0; padding:0;}
 .clear{ clear:both;}
-body{background-color:rgba(11, 206, 255, 0.514);}
-.main{ width:1200px; margin:0 auto;}
-.header{ width:100%; overflow:hidden; padding:16px 0;}
-.logo{ float:left; color:#f13a3a; font-size:30px; font-family:"方正粗黑宋简体";}
-.lx{ float:right;color:#999; letter-spacing: 10px;}
-.lx a{ font-size:18px; padding:0 20px; color:#999; line-height:40px;}
-.lx a:hover{color:#f13a3a; }
+body{background-color:rgba(252, 252, 252, 0.884);}
 .nav{ width:100%; overflow:hidden; height:42px; background:#2b2b2b;}
 .nav a{ font-size:16px; color:#FFF; padding:14px 50px; line-height:42px;}
 .sy{ width:260px; height:30px; float:right; margin-right:20px; background:#FFF; margin-top:6px; border-radius:30px;}
@@ -21,15 +15,41 @@ body{background-color:rgba(11, 206, 255, 0.514);}
 .banner img{ width:100%;}
 h1{ font-size:26px; color:#444444;font-family:"方正粗黑宋简体"; font-weight:normal; padding:20px 0;}
 .sb{ width:100%; overflow:hidden;}
-.sb img{ margin:0 0 15px 10px; border-radius: 20px;}
+.sb img{ margin:0 0 15px 5px; border-radius: 20px; border: solid;}
 .bh{ width:100%; overflow:hidden;}
-.bh li{ width:250px; padding:15px; background:#FFF; border:1px solid #eaeaea; margin-left:23px; float:left; margin-bottom:20px;}
-.bh li img{ width:100%;}
-.bh li h4{ font-size:16px; color:#333; font-weight:normal; line-height:32px;}
-.bh li h2{ font-size:14px; color:#666; font-weight:normal;}
-.bh li h3{ font-size:20px; color:#f13a3a; font-weight:normal; padding-top:6px;}
-.bh li span{ font-size:12px;}
+.bh li{width:250px;padding:15px; background:rgba(174, 187, 206, 0.199);border:1px solid #eaeaea;margin-left:15px; float:left; margin-bottom:20px;border: solid;border-radius:15px;}
+.bh img{ width:100%;}
+.bh h4{ font-size:16px; color:#333; font-weight:normal; line-height:32px;}
+.bh h2{ font-size:14px; color:#666; font-weight:normal;}
+.bh h3{ font-size:20px; color:#f13a3a; font-weight:normal; padding-top:6px;}
+.bh span{ font-size:12px;}
 .foot{background:#2b2b2b; text-align:center; line-height:70px; color:#FFF; font-size:14px; width:100%; overflow:hidden; margin-top:30px;}
+
+
+/*登录*/
+.main{ width:1200px; margin:0 auto;}
+.header{ width:100%; overflow:hidden; padding:16px 0;}
+.logo{ float:left; color:#f13a3a; font-size:30px; font-family:"方正粗黑宋简体";}
+.lx{ float:right;color:#999; letter-spacing: 10px;}
+.lx a{ font-size:18px; padding:0 20px; color:#999; line-height:40px;}
+.lx a:hover{color:#f13a3a; }
+.bj{ background:url(../images/f.jpg) left center no-repeat; padding-left:24px;}
+.dl{ background:url(../images/d.jpg) center no-repeat #ededed; height:460px; padding-bottom:50px;}
+.dl form{ width:420px; background:#fff; padding:20px; float:right; margin-top:60px;}
+.dl form h1{color:#f13a3a; padding:0;}
+.dl form li{ width:98%; border:1px solid #cdcdcd; margin:20px 0 0 0; height:36px;}
+.dl form li span{background: #f3f3f3; width:86px; float:left; padding-left:14px; line-height:36px; color:#666; font-size:14px; letter-spacing:2px;}
+.dl form li input{ width:310px; float:right; height:36px; border:none;}
+.dl form button{width:410px; background:#f13a3a; height:44px; font-size:20px; color:#FFF; text-align:center; border:none; margin-top:30px;}
+.ty{ width:100%; overflow:hidden; padding-top:20px; font-size:12px; color:#333;}
+.ty input{ margin-right:8px; float:left; margin-top:2px;}
+.ty a{font-size: 15px; color: slateblue;}
+.ty a:hover{color:#ee102a;}
+.zc{ width:100%; overflow:hidden;border-top: 1px solid #eee; margin-top:20px;}
+.zc p{ float:left; font-size:14px; color:#333; line-height:34px; padding-top:14px;}
+.zc a{ float:right; padding:6px 30px; border:1px solid #f13a3a; font-size:14px; margin-top:14px; color:#f13a3a;}
+.zc a:hover{ background:#f13a3a; color:#fff;}
+.footer{background:#ededed; text-align:center; line-height:70px; color:#868383; font-size:14px; width:100%; overflow:hidden; border-top:1px solid #868383;}
 
 
 
