@@ -1,10 +1,12 @@
+.main{ width:1200px; margin:0 auto;}
 body,p,h1,h2,h3,h4,h5,table,ul,li,form,input{ margin:0; padding:0; color:#000; font-family: "微软雅黑";}
 a{ font-size:12px; color:#000; text-decoration:none; border:none; padding:0; margin:0;}
 a:hover{ color:#ec162f;}
 img{ border:0; margin:0; padding:0;}
 ul,li{ list-style:none; border:0; margin:0; padding:0;}
-.clear{ clear:both;}
 body{background-color:rgba(252, 252, 252, 0.884);}
+h1{ font-size:26px; color:#000000;font-family:"方正粗黑宋简体"; font-weight:normal; padding:20px 0;}
+.clear{ clear:both;}
 .nav{ width:100%; overflow:hidden; height:42px; background:#2b2b2b;}
 .nav a{ font-size:16px; color:#FFF; padding:14px 50px; line-height:42px;}
 .sy{ width:260px; height:30px; float:right; margin-right:20px; background:#FFF; margin-top:6px; border-radius:30px;}
@@ -13,7 +15,6 @@ body{background-color:rgba(252, 252, 252, 0.884);}
 .nav a:hover ,.nav a.on{ background:#f13a3a;}
 .banner{ width:100%; overflow:hidden; padding-top:4px;}
 .banner img{ width:100%;}
-h1{ font-size:26px; color:#444444;font-family:"方正粗黑宋简体"; font-weight:normal; padding:20px 0;}
 .sb{ width:100%; overflow:hidden;}
 .sb img{ margin:0 0 15px 5px; border-radius: 20px; border: solid;}
 .bh{ width:100%; overflow:hidden;}
@@ -24,10 +25,6 @@ h1{ font-size:26px; color:#444444;font-family:"方正粗黑宋简体"; font-weig
 .bh h3{ font-size:20px; color:#f13a3a; font-weight:normal; padding-top:6px;}
 .bh span{ font-size:12px;}
 .foot{background:#2b2b2b; text-align:center; line-height:70px; color:#FFF; font-size:14px; width:100%; overflow:hidden; margin-top:30px;}
-
-
-/*登录*/
-.main{ width:1200px; margin:0 auto;}
 .header{ width:100%; overflow:hidden; padding:16px 0;}
 .logo{ float:left; color:#f13a3a; font-size:30px; font-family:"方正粗黑宋简体";}
 .lx{ float:right;color:#999; letter-spacing: 8px;}
@@ -50,7 +47,6 @@ h1{ font-size:26px; color:#444444;font-family:"方正粗黑宋简体"; font-weig
 .zc a{ float:right; padding:6px 30px; border:1px solid #f13a3a; font-size:14px; margin-top:14px; color:#f13a3a;}
 .zc a:hover{ background:#f13a3a; color:#fff;}
 .footer{background:#ededed; text-align:center; line-height:70px; color:#868383; font-size:17px; width:100%; overflow:hidden; border-top:1px solid #868383;}
-
 
 
 
