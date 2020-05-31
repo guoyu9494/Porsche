@@ -42,7 +42,7 @@ h1{ font-size:26px; color:#000000;font-family:"方正粗黑宋简体"; font-weig
 .ty input{ margin-right:8px; float:left; margin-top:2px;}
 .ty a{font-size: 15px; color: slateblue;}
 .ty a:hover{color:#ee102a;}
-.zc{ width:100%; overflow:hidden; border-top: 1px solid #eee; margin-top:20px;}
+.zc{ width:100%; border-top: 1px solid #eee; margin-top:20px;}
 .zc p{ float: left; font-size:14px; color:#333; line-height:34px; padding-top:14px;}
 .zc a{ float:right; padding:6px 30px; border:1px solid #f13a3a; font-size:14px; margin-top:14px; color:#f13a3a;}
 .zc a:hover{ background:#f13a3a; color:#fff;}
