@@ -31,7 +31,7 @@ h1{ font-size:26px; color:#000000;font-family:"方正粗黑宋简体"; font-weig
 .lx a{ font-size:18px; padding:0 20px; color:#999; line-height:40px;}
 .lx a:hover{color:#f13a3a; }
 .bj{ background:url(../images/f.jpg) left center no-repeat; padding-left:50px;}
-.dl{ background:url(../images/d.jpg) center no-repeat #f1eeee; height:460px; padding-bottom:50px;}
+.dl{ background:url(../images/d.jpg) center no-repeat #f1eeee; height:700px; padding-bottom:50px;}
 .dl form{ width:420px; background:#fff; padding:20px; float:right; margin-top:60px;}
 .dl form h1{color:#f13a3a; padding:0;}
 .dl form li{ width:98%; border:1px solid #cdcdcd; margin:20px 0 0 0; height:36px;}
@@ -46,7 +46,7 @@ h1{ font-size:26px; color:#000000;font-family:"方正粗黑宋简体"; font-weig
 .zc p{ float: left; font-size:14px; color:#333; line-height:34px; padding-top:14px;}
 .zc a{ float:right; padding:6px 30px; border:1px solid #f13a3a; font-size:14px; margin-top:14px; color:#f13a3a;}
 .zc a:hover{ background:#f13a3a; color:#fff;}
-.footer{background:#ededed; text-align:center; line-height:70px; color:#868383; font-size:17px; width:100%; overflow:hidden; border-top:1px solid #868383;}
+.footer{background:#ededed; text-align:center; line-height:70px; color:#868383; font-size:17px; width:100%; overflow:hidden; border-top:0px solid #868383;}
 
 
 
