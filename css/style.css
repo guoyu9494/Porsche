@@ -1,4 +1,4 @@
-.main{ width:1200px; margin:0 auto;}
+.main{ width:1200px; margin: auto;}
 body,p,h1,h2,h3,h4,h5,table,ul,li,form,input{ margin:0; padding:0; color:#000; font-family: "微软雅黑";}
 a{ font-size:12px; color:#000; text-decoration:none; border:none; padding:0; margin:0;}
 a:hover{ color:#ec162f;}
