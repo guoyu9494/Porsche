@@ -12,7 +12,7 @@ h1{ font-size:26px; color:#000000;font-family:"方正粗黑宋简体"; font-weig
 .sy{ width:260px; height:30px; float:right; margin-right:20px; background:#FFF; margin-top:6px; border-radius:30px;}
 .sy input{ float:left; padding-left:20px; width:180px; border:none; outline:none; height:30px;  border-radius:30px;}
 .sy button{ width:60px; height:30px; text-align:center; padding-left:30px; outline:none; background:url(../images/go.png) no-repeat center; border:none;cursor:pointer;}
-.nav a:hover ,.nav a.on{ background:#f13a3a;}
+.nav a:hover{ background:#f13a3a;}
 .banner{ width:100%; overflow:hidden; padding-top:4px;}
 .banner img{ width:100%;}
 .sb{ width:100%; overflow:hidden;}
@@ -52,6 +52,10 @@ h1{ font-size:26px; color:#000000;font-family:"方正粗黑宋简体"; font-weig
 .xb input{ margin:20px 4px 0 14px;}
 #button{margin-top: 5px;}
 #a{width:410px; background:#f13a3a; height:44px; font-size:20px; color:#FFF; text-align:center; border:none; margin-top:45px;}
+.zs{ width:100%; overflow:hidden;}
+.zs li{ width:260px; padding:5px; border:1px solid #ccc; margin-left:23px; float:left; text-align:center; margin-bottom:23px;}
+.zs li img{ width:100%;}
+.zs li h2{ font-size:16px; padding-top:10px;}
 
 
 
