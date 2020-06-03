@@ -57,10 +57,10 @@ h1{ font-size:26px; color:#000000;font-family:"方正粗黑宋简体"; font-weig
 .zs li img{ width:100%;}
 .zs li h2{ font-size:16px; padding-top:10px;}
 .jia{ width:100%; overflow:hidden;}
-.jia li{ width:530px; margin:14px; background:#fff; border:1px solid #eaeaea; float:left; padding:20px;}
+.jia li{ width:530px; margin:14px; background:#fff; border:1px solid #eaeaea; float:left; padding:15px; border: solid;}
 .jia_r{ width:230px; float:right;}
 .jia_r img{ width:100%;}
-.jia_l{ width:260px; float:left; padding-left:20px;}
+.jia_l{ width:260px; float:left; padding-left:20px; height: 200px;}
 .xia{ width:100%; overflow:hidden; padding-top:14px;}
 .xia h2{ font-size:20px;color:#f13a3a;font-weight:normal;}
 .xia span{ font-size:12px;}
